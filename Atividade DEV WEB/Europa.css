@@ -1,0 +1,70 @@
+body {
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+
+.header-principal {
+    text-align: left;
+    width: 765px;
+    margin: auto;
+    padding: 12px 250px;
+    background-color: rgb(255, 219, 91);
+}
+
+.titulo-site {
+    color: rgb(131, 22, 92);
+}
+
+.titulo-ita {
+    text-align: center;
+    color: rgb(131, 22, 92);
+}
+
+main { 
+    width: 600px;
+    height: auto;
+    margin: auto;
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.conteudo {
+    text-align: justify;
+    color:rgb(65, 10, 49);
+}
+
+.mais-pontos-turisticos {
+    text-align: left;
+    color:rgb(65, 10, 49);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+article {
+        display: block;
+    }
+
+
+footer {
+    margin: auto;
+    background-color: rgb(255, 219, 91);
+    text-align: center;
+    width: 748px;
+    padding: 12px 260px;
+}
